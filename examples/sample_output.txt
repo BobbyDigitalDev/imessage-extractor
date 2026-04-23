@@ -1,0 +1,12 @@
+[2022-08-03 10:14:22] Them: Hey, are you around today?
+[2022-08-03 10:17:05] Me: Yeah, what's up?
+[2022-08-03 10:17:48] Them: Can you send me that document we were working on?
+[2022-08-03 10:19:31] Me: Sure, give me a few minutes
+[2022-08-03 10:23:14] Me: Just sent it to your email
+[2022-08-03 10:24:02] Them: Got it, thanks!
+[2022-08-03 14:45:17] Them: This looks great, really appreciate it
+[2022-08-03 14:52:38] Me: No problem, let me know if you need changes
+[2022-08-04 09:03:55] Them: One quick thing — can we move the meeting to Thursday?
+[2022-08-04 09:07:12] Me: Thursday works, what time?
+[2022-08-04 09:08:44] Them: 2pm?
+[2022-08-04 09:09:01] Me: Perfect, I'll update the invite
