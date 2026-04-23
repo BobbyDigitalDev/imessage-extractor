@@ -49,7 +49,7 @@ This tool handles both correctly. There is no printable-ratio filter.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/imessage-extractor.git
+git clone https://github.com/BobbyDigitalDev/imessage-extractor.git
 cd imessage-extractor
 pip install python-docx   # optional, for Word output
 ```
